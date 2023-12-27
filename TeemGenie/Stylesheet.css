@@ -1,0 +1,400 @@
+body{
+    
+    background-color: rgb(242 255 241);
+}
+.Top {  
+    padding: 13px 106px 30px;
+}
+
+
+.leftlogo {
+    padding: 9px;
+    padding-bottom: 26px;
+}
+
+.leftlogo img {
+    padding: 34px;
+    /* position: absolute; */
+    /* font-size: 14px; */
+    width: 15%;
+    /* size: 35px; */
+}
+
+.rightside-text {
+    float: right;
+    display: inline;
+    padding: 74px;
+    /* margin: 4px; */
+    /* color: black; */
+    font-size: 19px;
+    /* text-decoration: none; */
+}
+.rightside-text a {
+    padding: 17px;
+    text-decoration: none;
+    color:  #14c346;
+    font-weight: 600;
+}
+/* #T1 {
+    font-size: 36px;
+    color:  #14c346;
+    margin-top: -35px;
+    padding-top: -9px;
+} */
+
+#T1 {
+    font-size: 34px;
+    padding: 16px 18px 46px 18px;
+    color: #14c346;
+}
+#T2 {
+    font-size: 63px;
+    padding: 14px 9px 10px -2px;
+    color: rgb(20, 195, 70);
+    font-weight: 600;
+}
+    #T3 {
+        font-size: 63px;
+        color:  #14c346;
+        font-weight: 600;
+    }
+#T4{
+    font-size: 18px;
+    color: black;
+}
+
+.Mainimage {
+    /* float: right; */
+    position: absolute;
+    padding: 29px;
+    right: -1%;
+    top: 18%;
+}
+
+.Mainimage img {
+    width: 84%;
+    padding: 12px 2px 40px 5px;
+}
+.button {
+    font-size: 16px;
+    background-color: rgb(20, 195, 70);
+    color: white;
+    border: rgb(20, 195, 70);
+    border-radius: 10px;
+    /* padding: 11px; */
+    width: 160px;
+    height: 40px;
+}
+/*  Top section are complete */
+/*  */
+.Center {
+    /* font-size: 14px; */
+    text-align: center;
+    padding: 178px 141px 91px 229px;
+    width: 67%;
+    /* color: black; */
+    padding-right: -21px;
+    /* text-indent: 37%; */
+}
+.Text-2 {
+    font-size: 35px;
+    color: green;
+    font-weight: 800;
+}
+.Text-21{
+    font-size: 25px;
+}
+.Logo {
+    margin: 11px;
+    padding: 24px;
+    display: inline-flex;
+}
+.a{
+    padding: 54px;
+}
+
+#LOGO1, #LOGO2, #LOGO3 ,#LOGO4, #LOGO5 {
+    font-size: 25px;
+    font-weight: 500;
+}
+  .Text-20 {
+        text-align: center;
+        margin-top: -83px;
+        font-size: 25px;
+    }
+
+/* Text - 3 start  */
+.Text-3{
+    padding: 0px;
+}
+.Text-31 {
+    font-weight: 600;
+    text-align: center;
+    font-size: 33px;
+    color: #5fd95f;
+}
+.Text-31 img {
+    padding: 17px 86px;
+    margin: -37px;
+    width: 21%;
+}
+
+.Teem {
+    padding: 55px 182px 46px 169px;
+    margin: -24px;
+}
+
+#Teem{
+    text-align: center;
+    font-size: 30px;
+    color: #5edf6a;
+    font-weight: 600;
+    padding: 63px;
+}
+
+.card {
+    padding: 11px;
+    margin: 3px;
+}
+
+    .card-1 {
+        box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+        max-width: 275px;
+        margin: auto;
+        position: absolute;
+        left: 19%;
+        text-align: center;
+        font-family: arial;
+        display: inline-block;
+    }
+
+.card-2 {
+    
+        box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+        max-width: 275px;
+        margin: auto;
+        position: absolute;
+        left: 42%;
+        text-align: center;
+        font-family: arial;
+        display: inline-block;
+    }
+.card-3 {
+     
+        box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+        max-width: 275px;
+        margin: auto;
+        position: absolute;
+        left: 65%;
+        text-align: center;
+        font-family: arial;
+        display: inline-block;
+    }
+    
+.card img {
+    width: 100%;
+    padding: 0px;
+}
+
+.Talent-1{
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+#Talent{
+    font-size: 14px;
+}
+/* Text left side part are start */
+
+.Text-Leftside {
+    padding: 482px 63px 32px 66px;
+}
+
+.T-Ls{
+    padding: 15px 30px 12px 110px;
+}
+#Text-Left {
+    padding: 10px;
+    font-size: 68px;
+    line-height: 99px;
+    color: #24ae24;
+    font-weight: 700;
+}
+/* Right side card are used */
+.RSDcard {
+    padding: -10px 81px 25px 40px;
+    width: 45%;
+    float: right;
+    padding: 67px 146px 17px 24px;
+}
+.RSD{
+    display: flex;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 55px rgb(0 0 0 / 10%);
+    border-radius: 20px;
+    margin-bottom: 30px;
+    padding: 25px 40px;
+}
+.RSD img {
+    width: 15%;
+    /* text-indent: -4px; */
+    padding: 2px;
+}
+
+.RSDP {
+    text-indent: 14px;
+    font-size: 26px;
+    line-height: 36px;
+    /* width: 41%; */
+    /* text-align: right; */
+}
+
+.RSD-1{
+    display: flex;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 55px rgb(0 0 0 / 10%);
+    border-radius: 20px;
+    margin-bottom: 30px;
+    padding: 25px 40px;
+}
+.RSD-1 img{
+    width: 15%;
+    /* text-indent: -4px; */
+    padding: 2px;
+}
+.RSDP-1{
+    text-indent: 14px;
+    font-size: 26px;
+    line-height: 36px;
+}
+
+.RSD-2 {
+    display: flex;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 55px rgb(0 0 0 / 10%);
+    border-radius: 20px;
+    margin-bottom: 30px;
+    padding: 25px 40px;
+}
+.RSD-2 img{
+    width: 15%;
+    /* text-indent: -4px; */
+    padding: 2px;
+}
+.RSDP-2{
+    text-indent: 14px;
+    font-size: 26px;
+    line-height: 36px;
+}
+
+ /* Left image and right text are used  */
+ .left{
+ padding: -18px 20px -3px 3px;
+    
+ }
+ .Leftimg{
+    padding: -18px 20px -3px 3px;
+ }
+ .Leftimg img{
+        width: 41%;
+        padding: 10px 112px;
+    
+ }
+ .Right-text {
+    float: right;
+    padding: 20px 396px 13px 0px;
+}
+
+ #RT-1 {
+    padding: -13px -6px 47px -3px;
+    font-size: 35px;
+    color:#24ae24;
+    font-weight: 600;
+    /* padding: 315px 413px; */
+    /* padding-left: 268px; */
+}
+#RT-11{
+   font-size: 21px;
+    color: black;
+     
+}
+#RT-111{
+    font-size: 24px;
+    font-weight: 500;
+}
+.Rightsidetext-1 {
+    float: right;
+    width: 45%;
+    padding: 15px;
+    margin-top: -421px;
+}
+
+/* <!-- start Let Us Build Your India Entity --> */
+
+.center{
+    padding: 104px;
+}
+.text-centre-1 {
+    text-align: center;
+    font-size: 24px;
+    color: #24ae24;
+}
+.Listname{
+    text-align: center;
+}
+.Name{
+    font-size: 25px;
+    padding-right: 7px
+}
+.Name1{
+    font-size: 25px;
+    padding-right: 88px;
+}
+.Name2{
+    font-size: 25px;
+    padding-right: 40px;
+
+}
+.Name3{
+    font-size: 25px;
+    padding-right: 151px;
+}
+
+.button-1 {
+    font-size: 22px;
+    width: 12%;
+    font-weight: 700;
+    background-color: #14c346;
+    color: white;
+    border: #24ae24;
+    border-radius: 10px;
+    padding: 13px;
+}
+/* Footer */
+.Footer{  
+      padding: 22px;
+    width: 100%;
+    margin: 0px;
+    background-color: #25c14d;
+}
+.FI img {
+    padding: -5px;
+    width: 16%;
+    position: absolute;
+    left: 55px;
+    margin: 39px;
+    /* top: 4px; */
+}
+
+.F1{
+   
+    padding: 10px;
+    text-align: right;
+    color: white;
+    font-size: 25px;
+    padding-right: 117px;
+}
